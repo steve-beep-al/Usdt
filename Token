@@ -1,0 +1,20 @@
+{
+  "name": "Tether",
+  "timestamp": "2025-09-05T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/steve-beep-al/Usdt/main/IMG_2460.png",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x0D8C190055e5BdC488D00086CFdfE45A7704C28C",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/steve-beep-al/Usdt/main/IMG_2460.png"
+    }
+  ]
+}
